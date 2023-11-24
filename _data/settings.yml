@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Projects'
       url: '/'
     - title: 'CV'
-      url: '/CV'
+      url: '/cv'
     - title: 'Publications'
       url: '/publications'
     - title: 'Hobbies'
