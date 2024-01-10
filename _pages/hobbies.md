@@ -11,7 +11,7 @@ How an image is projected through a pinhole to a light-sensitive film, this very
 
 <div class="gallery" data-columns="1">
 	<img src="/images/hobbies/exa1.jpeg" >
-    <img src="/images/hobbies/zenit.jpeg">
+    <img src="/images/hobbies/Zenit.jpeg">
     <img src="/images/hobbies/nettar.jpg">
     Examples from my collection. 
 </div>
