@@ -18,8 +18,8 @@ menu_settings:
       url: '/publications'
     - title: 'Hobbies'
       url: '/hobbies'
-    - title: 'Blog'
-      url: '/blog/'
+    # - title: 'Blog'
+    #   url: '/blog/'
     - title: 'Contact'
       url: '/contact'
 
