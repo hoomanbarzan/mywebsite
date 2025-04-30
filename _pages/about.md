@@ -20,18 +20,23 @@ Shot with Zenith 122 on Lomography Lomo 400.
 </div>
 
 
-<br/>I am the head of the artificial intelligence team at the Research in Orthopedic Computer Science (ROCS) lab, Balgrist University Hospital, Zurich. I am interested in the cross-section between computer vision, computer assisted surgery, artificial intelligence and mixed reality. Through my primary line of research, I focus on developing advanced surgical navigation methods and techniques using novel breakthroughs in machine learning and augmented reality. My vision is to use the said modern technologies to develop low-profile and non-intrusive computer assisted surgery solutions with the hope of increasing their clinical adoption rate. Through my neumerous conversations with various stakeholders in this field, I have heard the following sentence in different variations and tones: 
->"If an assistive computer technology takes me an additional 20 minutes to setup, I'd rather do it myself than to rely on the ... computer"
+<br/>I lead the Artificial Intelligence team at the Research in Orthopedic Computer Science (ROCS) Lab at Balgrist University Hospital in Zurich. My research lies at the intersection of computer vision, computer-assisted surgery, artificial intelligence, and mixed reality. I am particularly focused on developing advanced surgical navigation techniques that leverage cutting-edge machine learning and augmented reality technologies.
 
-But to me the message is clear and simple: new technologies should respect the clinical workflow, not the other way around! Our community has been successful in transitioning advanced AI solutions into the MedTech realm specifically for preoperative and postoperative applications; however, dedicated Intraoperative solutions are scarce in today's climate due to challenges in intraoperative data collection and curation. Through my research efforts, I aim at bridging the said gap and applying the emerging AI models for use in intraoperative conditions. 
+My overarching goal is to create low-profile, non-intrusive computer-assisted surgical solutions that seamlessly integrate into existing clinical workflows, ultimately promoting higher adoption rates in real-world settings. Throughout numerous conversations with clinicians and stakeholders in the field, one sentiment consistently emerges in various forms:
 
-Through my daily work, I am very fortunate to have constant communication and collaboration with people from a diverse range of backgrounds: computer science, orthopedic surgery, AI and the broader engineering field. In this role, I manage the AI team within  the ROCS lab and supervise technical M.Sc. and PhD students as well as medical residents who are involved in the experimental aspects of our work. 
+>“If a computer-assisted tool takes me 20 extra minutes to set up, I’d rather just do it myself.”
+
+To me, the message is clear: new technologies must adapt to clinical workflows—not the other way around.
+
+While the medical technology community has made significant progress in applying AI to preoperative and postoperative tasks, the intraoperative space remains largely underdeveloped. This gap is primarily due to the challenges of acquiring and curating intraoperative data. Through my research, I strive to address this gap by developing AI-powered solutions that are specifically tailored for intraoperative use, with the aim of improving both surgical precision and clinical efficiency.
+
+In my day-to-day work, I’m fortunate to collaborate closely with professionals from diverse backgrounds—including computer science, orthopedic surgery, artificial intelligence, and engineering. As the manager of the AI team within the ROCS Lab, I supervise both technical MSc and PhD students, as well as medical residents who contribute to the experimental and clinical aspects of our research. 
 
 
 <img src="/images/about/X23D-logo.png" width="500"/>
 
 
-Through my academic research, I have recently co-founded X23D AG, which is a startup company aiming at providing advanced surgical navigation solutions that can be effortlessly integrated in the existing surgical workflow. We at X23D AG are a growing team of software developers and clinicians, pursuing a commercialization pathway for our reimagined computer assisted surgery products. I am the Chief Executive officer at X23D AG and a member of the board. 
+Through my academic research, I recently co-founded X23D AG, a startup dedicated to delivering advanced surgical navigation solutions designed for seamless integration into existing clinical workflows. At X23D AG, we are a growing team of software engineers and clinicians, committed to bringing a new generation of reimagined computer-assisted surgery products to market. I serve as the Chief Executive Officer and a member of the board.
 
 <a href="https://scholar.google.ca/citations?user=l-OV7G8AAAAJ&hl=en&oi=ao" class="button button--small">My Google Scholar Page</a>
 <a href="https://www.linkedin.com/in/hooman-esfandiari-b852b588/" class="button button--small">My Linkedin Page</a>
